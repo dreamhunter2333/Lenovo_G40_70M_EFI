@@ -25,14 +25,14 @@
 
 ### 安装镜像
 
-**将镜像中efi替换为本仓库的EFI文件夹**
+**将镜像中EFI替换为本仓库的EFI文件夹**
 
 直接使用黑果小兵博客中的镜像进行安装：[【黑果小兵】macOS Mojave 10.14.3 18D42 正式版 with Clover 4859原版镜像](https://blog.daliansky.net/macOS-Mojave-10.14.3-18D42-official-version-with-Clover-4859-original-image.html)
 
 ### CLOVER
 
 * 支持Mojave
-* CPU原生支持，变频正常(最低800Mhz) 
+* CPU原生支持，变频正常
 * 睡眠唤醒 无效
 * 显卡原生支持，采用`Lilu+WhateverGreen`通过`Clover/device/Properties`方式注入
 * 声卡为Conexant CX20751 ，使用 `AppleALC` ，layout-id:8，通过`Clover/device/Properties`方式注入
