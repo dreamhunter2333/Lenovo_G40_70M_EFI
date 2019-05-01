@@ -32,19 +32,24 @@
 ### CLOVER
 
 * 支持Mojave
-* CPU原生支持，变频正常
+* CPU原生支持，变频正常（使用`ssdtPRGen.sh`）
 * 睡眠唤醒 无效
 * 显卡原生支持，采用`Lilu+WhateverGreen`通过`Clover/device/Properties`方式注入
-* 声卡为Conexant CX20751 ，使用 `AppleALC` ，layout-id:8，通过`Clover/device/Properties`方式注入
+* 声卡为Conexant CX20751 ，使用 `AppleALC` ，layout-id:3，通过`Clover/device/Properties`方式注入
 * 无线网卡更换为 `AR9565` 使用仓库的脚本安装驱动
 * 显示器亮度调节 无效
 * 其它 `ACPI` 补丁修复采用 `hotpatch` 方式，文件位于 `/CLOVER/ACPI/patched`
-* 电池DSDT补丁显示电池状态正常
-* 触摸板单双指手势正常
+* 电池`HOTPATCH`补丁显示电池状态正常
+* 触摸板单双指手势正常 `VoodooPS2`
 
-### HIDPI   
-[开启方法](https://github.com/xzhih/one-key-hidpi)
-``` bash
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/xzhih/one-key-hidpi/master/hidpi.sh)"
-```
- **感谢 @[冰水加劲Q](https://github.com/xzhih)**
+### 系统截图
+
+![1](PIC/1.png)
+![1](PIC/2.png)
+![1](PIC/3.png)
+![1](PIC/4.png)
+![1](PIC/5.png)
+![1](PIC/6.png)
+![1](PIC/7.png)
+![1](PIC/8.png)
+![1](PIC/9.png)
