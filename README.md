@@ -19,7 +19,7 @@
 | 处理器   | 英特尔 Core i5-4258U @ 2.40GHz 双核                   |
 | 内存     | 4 GB ( DDR3L 1600MHz )                           |
 | 硬盘     | SATA 固态硬盘                        |
-| 显卡     | Intel HD Graphics 5100(platform-id:0x0A2E0006)       |
+| 显卡     | Intel HD Graphics 5100  (platform-id:0x0A2E0006)       |
 | 声卡     |  Conexant CX20751 (layout-id:3)              |
 | 网卡     | AR9565                     |
 
@@ -37,7 +37,7 @@
 * 显卡原生支持，采用`Lilu+WhateverGreen`通过`Clover/device/Properties`方式注入
 * 声卡为Conexant CX20751 ，使用 `AppleALC` ，layout-id:3，通过`Clover/device/Properties`方式注入
 * 无线网卡更换为 `AR9565` 使用仓库的脚本安装驱动
-* 显示器亮度调节 无效
+* 显示器亮度调节 `FN F11/F12` 快捷键
 * 其它 `ACPI` 补丁修复采用 `hotpatch` 方式，文件位于 `/CLOVER/ACPI/patched`
 * 电池`HOTPATCH`补丁显示电池状态正常
 * 触摸板单双指手势正常 `VoodooPS2`
