@@ -1,9 +1,9 @@
 # Lenovo_G40_70M_EFI
 
 # Lenovo G40 70M EFI 黑苹果 HACKINTOSH
-[![img](https://img.shields.io/github/stars/jinmu333/Lenovo_G40_70M_EFI.svg?logoColor=blue&style=for-the-badge)
-![img](https://img.shields.io/github/forks/jinmu333/Lenovo_G40_70M_EFI.svg?logoColor=blue&style=for-the-badge)
-![img](https://img.shields.io/github/last-commit/jinmu333/Lenovo_G40_70M_EFI.svg?color=blue&style=for-the-badge)](https://github.com/jinmu333/Shinalon_YAO_7000_efi)
+[![img](https://img.shields.io/github/stars/dreamhunter2333/Lenovo_G40_70M_EFI.svg?logoColor=blue&style=for-the-badge)
+![img](https://img.shields.io/github/forks/dreamhunter2333/Lenovo_G40_70M_EFI.svg?logoColor=blue&style=for-the-badge)
+![img](https://img.shields.io/github/last-commit/dreamhunter2333/Lenovo_G40_70M_EFI.svg?color=blue&style=for-the-badge)](https://github.com/dreamhunter2333/Shinalon_YAO_7000_efi)
 [![img](https://img.shields.io/badge/link-996.icu-red.svg?style=for-the-badge)](https://github.com/996icu/996.ICU)
 
 # Lenovo_G40_70M EFI for macOS Mojave
